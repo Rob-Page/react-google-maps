@@ -1,0 +1,21 @@
+{
+  "name": "maptest",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "google-map-react": "^1.0.5",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.1",
+    "react-addons": "^0.9.1-deprecated",
+    "react-addons-css-transition-group": "^15.6.2",
+    "react-dom": "^16.4.1",
+    "react-pure-render": "^1.0.2",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
