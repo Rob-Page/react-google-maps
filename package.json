@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "google-map-react": "^1.0.5",
+    "material-icons-react": "^1.0.0",
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-addons": "^0.9.1-deprecated",

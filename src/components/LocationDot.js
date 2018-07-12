@@ -3,7 +3,7 @@ import ReactCSSTransitionGroup from 'react-addons-css-transition-group';
 import './LocationStyle.css';
 import {dotStyle} from './DotStyle';
 
-export default class MyGreatPlace extends Component {
+export default class LocationDot extends Component {
     constructor(props) {
         super(props)
         this.state = {
